@@ -1,0 +1,25 @@
+{
+  "name": "namastey-react-main",
+  "version": "1.0.0",
+  "description": "this is naastey react by avinash sharma",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AAvi09/namastey-react)"
+  },
+  "keywords": [
+    "react",
+    "namstey",
+    "react",
+    "Avinash",
+    "sharma"
+  ],
+  "author": "\"Avinash sharma\"",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
